@@ -31,4 +31,7 @@
     <a href="https://assets.fjelloverflow.dev/vue3-starter.svg" target="_blank">
         <img src="./vue3-starter.svg" width="64px" style="margin-right: 10px" />
     </a>
+    <a href="https://assets.fjelloverflow.dev/f1-statistics.svg" target="_blank">
+        <img src="./f1-statistics.svg" width="64px" style="margin-right: 10px" />
+    </a>
 </div>
